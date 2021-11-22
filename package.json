@@ -1,0 +1,8 @@
+{
+  "name": "cmsly",
+  "private": true,
+  "dependencies": {
+    "graphql": "15.7.2",
+    "graphql-request": "3.6.1"
+  }
+}
